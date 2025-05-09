@@ -1,0 +1,1001 @@
+﻿NRO;ID_CLIENTE;EDAD;RESIDENCIA;ORIGEN
+1;CLI00001;26;Baños Morales;Buchupureo
+2;CLI00002;30;Metri;Maitencillo
+3;CLI00003;43;Quillota;Ensenada
+4;CLI00004;22;Piruquina;Llifén
+5;CLI00005;39;Mehuín;Nercón
+6;CLI00006;26;Taltal;Victoria
+7;CLI00007;27;Carelmapu;Puerto Saavedra
+8;CLI00008;20;Lontué;Quintay
+9;CLI00009;41;Puertecillo;Villarrica
+10;CLI00010;36;Los Vilos;Niebla
+11;CLI00011;27;Punta Arenas;Puerto Fonck
+12;CLI00012;31;San Pedro De Atacama;Rivadavia
+13;CLI00013;34;Quenuir;Ancud
+14;CLI00014;25;Juan Lopez;Ancud
+15;CLI00015;47;Puerto Varas;Coyhaique
+16;CLI00016;30;Llifén;Saltos del Laja
+17;CLI00017;43;Pica;Molco
+18;CLI00018;36;Nercón;Malalcahuello
+19;CLI00019;37;El Manzano;Tongoy
+20;CLI00020;28;Frutillar;Puerto Cisnes
+21;CLI00021;32;Saltos del Laja;Isla R. Crusoe (Juan Fernández)
+22;CLI00022;18;Tulahuén;Maitencillo
+23;CLI00023;23;Putre;Bahia Inglesa
+24;CLI00024;18;Osorno;Pucón
+25;CLI00025;36;Taltal;El Boyenar
+26;CLI00026;36;Reñaca;Castro
+27;CLI00027;45;Huasco;San Félix
+28;CLI00028;48;Viña Del Mar;Bahia Inglesa
+29;CLI00029;28;Pichilemu;Las Cruces
+30;CLI00030;20;Ancud;Cobquecura
+31;CLI00031;24;Tulahuén;Curacautín
+32;CLI00032;40;Quillaipe;Piruquina
+33;CLI00033;49;San Fabián de Alico;Totoralillo
+34;CLI00034;25;Tinguiririca;Frutillar Alto
+35;CLI00035;28;Molco;Punta Arenas
+36;CLI00036;24;El Molle;Iquique
+37;CLI00037;39;Futaleufú;Alto del Carmen
+38;CLI00038;46;Mehuín;Puerto Montt
+39;CLI00039;42;Laguna Verde;Tomé
+40;CLI00040;45;Isla Negra;Iloca
+41;CLI00041;25;Caleta Tortel;Coquimbo
+42;CLI00042;38;Limache;Lago Ranco
+43;CLI00043;22;El Manzano;Limache
+44;CLI00044;46;Pucón;Pichilemu
+45;CLI00045;34;Totoralillo;Chile Chico
+46;CLI00046;28;Algarrobo;Puerto Varas
+47;CLI00047;26;Puerto Lloles;Río Puelo
+48;CLI00048;47;Vichuquén;Buchupureo
+49;CLI00049;45;La Serena;Puerto Pirihueico
+50;CLI00050;46;Ritoque;Vilches
+51;CLI00051;21;Ancud;Puente Negro
+52;CLI00052;20;Villarrica;Vichuquén
+53;CLI00053;25;San Fabián de Alico;Laguna Verde
+54;CLI00054;20;Chile Chico;Angol
+55;CLI00055;32;Pelluhue;Rangue
+56;CLI00056;45;Alto del Carmen;Chile Chico
+57;CLI00057;28;Curanipe;Juan Lopez
+58;CLI00058;25;Cucao;Curacautín
+59;CLI00059;47;Punta Arenas;Tirúa
+60;CLI00060;47;Coquimbo;Recinto
+61;CLI00061;46;Piruquina;Valparaíso
+62;CLI00062;27;Calama;Punta Choros
+63;CLI00063;21;San Fabián de Alico;Dichato
+64;CLI00064;43;Curanipe;Castro
+65;CLI00065;36;Victoria;El Boyenar
+66;CLI00066;41;Mamiña;Las Cruces
+67;CLI00067;30;San Alfonso;Tongoy
+68;CLI00068;28;La Serena;Recinto
+69;CLI00069;43;San José de Maipo;Coihaique
+70;CLI00070;40;Caleta Tortel;Frutillar
+71;CLI00071;39;Puertecillo;Juan Lopez
+72;CLI00072;24;Villa Alemana;Mamiña
+73;CLI00073;43;Taltal;Villa Alemana
+74;CLI00074;46;Isla Negra;Hornopirén
+75;CLI00075;25;Frutillar Alto;Ilihue
+76;CLI00076;39;Los Molles;Viña Del Mar
+77;CLI00077;20;Recinto;Mehuín
+78;CLI00078;31;Manzanar;Mehuín
+79;CLI00079;24;El Melocotón;Caleta Tortel
+80;CLI00080;31;Vicuña;Paihuano
+81;CLI00081;43;Laguna Verde;Manzanar
+82;CLI00082;21;Ilihue;Chauquén
+83;CLI00083;29;Pica;Calama
+84;CLI00084;33;Chanavayita;Las Trincheras
+85;CLI00085;37;Puyuhuapi;Valdivia
+86;CLI00086;44;Quillota;Olmué
+87;CLI00087;42;Piruquina;Chauquén
+88;CLI00088;23;Rinconada;Cahuil
+89;CLI00089;25;Pica;Osorno
+90;CLI00090;18;Paihuano;Dichato
+91;CLI00091;38;Llicaldad;Puerto Choque
+92;CLI00092;28;Nercón;Osorno
+93;CLI00093;46;Punta De Tralca;Osorno
+94;CLI00094;49;Limache;Guanaqueros
+95;CLI00095;43;Limache;Hornopirén
+96;CLI00096;44;Punta De Tralca;Frutillar
+97;CLI00097;23;Puerto Ingeniero Ibáñez;Buchupureo
+98;CLI00098;22;Melipilla;Bahia Inglesa
+99;CLI00099;29;San Alfonso;Río Puelo
+100;CLI00100;48;Puerto Bertrand;Punta De Tralca
+101;CLI00101;31;Llicaldad;Vicuña
+102;CLI00102;18;Mamiña;Ancud
+103;CLI00103;50;Vicuña;Puerto Choque
+104;CLI00104;31;El Manzano;El Médano
+105;CLI00105;27;Juan Lopez;Colonia Lautaro
+106;CLI00106;47;Colonia Lautaro;Viña Del Mar
+107;CLI00107;28;Quenuir;El Melocotón
+108;CLI00108;46;Los Vilos;Colonia Lautaro
+109;CLI00109;33;Isla R. Crusoe (Juan Fernández);Puerto Natales
+110;CLI00110;28;Santa Olga;Ancud
+111;CLI00111;39;Villa Alemana;Torres Del Paine
+112;CLI00112;31;Calama;Ritoque
+113;CLI00113;50;Puertecillo;Puerto Cárdenas
+114;CLI00114;49;Laguna Verde;Quintay
+115;CLI00115;24;Tomé;Tulahuén
+116;CLI00116;22;Quillota;Pica
+117;CLI00117;27;Coihaique;Quillaipe
+118;CLI00118;46;Puerto Pirihueico;Puerto Pirihueico
+119;CLI00119;24;Torres Del Paine;Los Vilos
+120;CLI00120;30;San Alfonso;Las Cruces
+121;CLI00121;24;Puerto Montt;San Alfonso
+122;CLI00122;40;Futrono;Totoralillo
+123;CLI00123;21;Playa La Virgen;Catripulli
+124;CLI00124;42;El Tabo;Huasco
+125;CLI00125;37;Rangue;El Manzano
+126;CLI00126;47;Saltos del Laja;Rivadavia
+127;CLI00127;20;Cochrane;Cunco
+128;CLI00128;23;Quintay;Villarrica
+129;CLI00129;34;Tulahuén;Vichuquén
+130;CLI00130;33;Santa Cruz;Villa Alemana
+131;CLI00131;44;Tulahuén;Puerto Bertrand
+132;CLI00132;33;Panguipulli;Futrono
+133;CLI00133;26;Buchupureo;Tomé
+134;CLI00134;24;Lago Ranco;Puerto Montt
+135;CLI00135;31;Recinto;Laguna Verde
+136;CLI00136;41;Baños Morales;El Molle
+137;CLI00137;40;Pedregal;El Guayacán
+138;CLI00138;43;Cunco;Santa Cruz
+139;CLI00139;19;Pichilemu;San Alfonso
+140;CLI00140;31;Frutillar;Coyhaique
+141;CLI00141;25;Ensenada;Castro
+142;CLI00142;40;Lebu;Vichuquén
+143;CLI00143;19;Cahuil;Cunco
+144;CLI00144;45;Tirúa;Colonia Lautaro
+145;CLI00145;41;Pucón;Bahia Inglesa
+146;CLI00146;22;Totoralillo;Vichuquén
+147;CLI00147;46;Isla Negra;Caldera
+148;CLI00148;38;Isla Negra;Puerto Guadal
+149;CLI00149;48;Recinto;Mamiña
+150;CLI00150;37;Dichato;Caldera
+151;CLI00151;39;El Quisco;Niebla
+152;CLI00152;34;Los Vilos;Dichato
+153;CLI00153;22;El Molle;Niebla
+154;CLI00154;47;El Tabo;Rangue
+155;CLI00155;50;Concón;Metri
+156;CLI00156;43;El Tabo;San Félix
+157;CLI00157;23;Bahia Inglesa;Valdivia
+158;CLI00158;49;Piruquina;Laguna Verde
+159;CLI00159;50;San Pedro De Atacama;Laguna Verde
+160;CLI00160;45;Iquique;Pichilemu
+161;CLI00161;32;Llicaldad;Castro
+162;CLI00162;44;San Pedro De Atacama;Villarrica
+163;CLI00163;44;Puente Negro;Puerto Montt
+164;CLI00164;26;Lican Ray;Putre
+165;CLI00165;25;Mehuín;Piruquina
+166;CLI00166;37;Puerto Ingeniero Ibáñez;Calama
+167;CLI00167;27;Panimavida;Coyhaique
+168;CLI00168;48;San Félix;Puerto Lloles
+169;CLI00169;28;Caleta Tortel;San Alfonso
+170;CLI00170;27;Pucón;Villa Alemana
+171;CLI00171;40;Las Cruces;San Félix
+172;CLI00172;18;Paihuano;Taltal
+173;CLI00173;31;Mehuín;Frutillar Alto
+174;CLI00174;35;El Manzano;Melipilla
+175;CLI00175;33;Constitución;Vilches
+176;CLI00176;49;Santa Olga;Santa Juana
+177;CLI00177;29;Isla de Maipo;Tulahuén
+178;CLI00178;29;Las Cruces;Coyhaique
+179;CLI00179;37;Victoria;Puertecillo
+180;CLI00180;40;Concón;Cahuil
+181;CLI00181;18;Chile Chico;Osorno
+182;CLI00182;22;Saltos del Laja;Angol
+183;CLI00183;29;Osorno;Peleco
+184;CLI00184;19;Puerto Varas;Punta Arenas
+185;CLI00185;31;Vicuña;Castro
+186;CLI00186;46;Pelluhue;El Boyenar
+187;CLI00187;28;Guanaqueros;Hornopirén
+188;CLI00188;21;Río Puelo;Río Puelo
+189;CLI00189;21;Punta Choros;Las Cabras
+190;CLI00190;18;La Junta;Pisco Elqui
+191;CLI00191;40;Coquimbo;Ancud
+192;CLI00192;42;Quillón;Frutillar
+193;CLI00193;33;Pisco Elqui;Rangue
+194;CLI00194;23;Juan Lopez;Rivadavia
+195;CLI00195;43;San Fabián de Alico;Puerto Cisnes
+196;CLI00196;47;Alcohuaz;Bahia Inglesa
+197;CLI00197;35;Quillota;Huasco
+198;CLI00198;37;Punta Choros;San Pedro De Atacama
+199;CLI00199;44;Guanaqueros;Ilihue
+200;CLI00200;21;Isla de Maipo;Santa Cruz
+201;CLI00201;27;Buchupureo;Mehuín
+202;CLI00202;25;Buchupureo;Termas del Flaco
+203;CLI00203;22;Coñaripe;Vicuña
+204;CLI00204;22;Baños Morales;Villa O'Higgins
+205;CLI00205;50;Paihuano;Metri
+206;CLI00206;37;Pichilemu;Torres Del Paine
+207;CLI00207;41;Caburga;Cochrane
+208;CLI00208;18;San José de Maipo;Isla Negra
+209;CLI00209;35;El Molle;Las Cruces
+210;CLI00210;50;Pichidangui;Quillaipe
+211;CLI00211;48;Puerto Bertrand;Limache
+212;CLI00212;43;Vichuquén;Las Vertientes
+213;CLI00213;41;Recinto;Concón
+214;CLI00214;24;Villarrica;Pozo Almonte
+215;CLI00215;23;Villarrica;Guanaqueros
+216;CLI00216;25;Castro;Nercón
+217;CLI00217;41;Rinconada;La Serena
+218;CLI00218;41;Ancud;Osorno
+219;CLI00219;19;Coihaique;El Colorado
+220;CLI00220;45;Pisco Elqui;Quillaipe
+221;CLI00221;42;Lago Ranco;El Boyenar
+222;CLI00222;47;Futrono;Pedregal
+223;CLI00223;26;Limache;Pelluhue
+224;CLI00224;27;Villa Tehuelches;Quenuir
+225;CLI00225;23;Isla Negra;Punta Choros
+226;CLI00226;48;Las Vertientes;Saltos del Laja
+227;CLI00227;31;Puerto Lloles;Caldera
+228;CLI00228;44;El Molle;Termas del Flaco
+229;CLI00229;24;El Manzano;El Médano
+230;CLI00230;21;Chauquén;Lebu
+231;CLI00231;44;Freire;San Félix
+232;CLI00232;35;San José de Maipo;Viña Del Mar
+233;CLI00233;21;Las Vertientes;Valparaíso
+234;CLI00234;18;Punta Choros;Taltal
+235;CLI00235;33;El Manzano;Puerto Bertrand
+236;CLI00236;47;Putre;Las Cruces
+237;CLI00237;23;Las Trincheras;Cunco
+238;CLI00238;49;Viña Del Mar;Los Molles
+239;CLI00239;48;Cahuil;Metri
+240;CLI00240;20;Dichato;El Guayacán
+241;CLI00241;28;Castro;Concón
+242;CLI00242;31;El Médano;Villa Tehuelches
+243;CLI00243;24;Pelluhue;Puerto Fonck
+244;CLI00244;50;Taltal;Ritoque
+245;CLI00245;40;Ensenada;Cunco
+246;CLI00246;29;Curacautín;Mamiña
+247;CLI00247;27;Pisco Elqui;Niebla
+248;CLI00248;28;Villa Tehuelches;Mehuín
+249;CLI00249;38;Puerto Pirihueico;Las Vertientes
+250;CLI00250;23;Putre;El Colorado
+251;CLI00251;50;Villa O'Higgins;Los Molles
+252;CLI00252;49;Llifén;Puerto Fonck
+253;CLI00253;22;Saltos del Laja;Coyhaique
+254;CLI00254;32;Peleco;Malalcahuello
+255;CLI00255;38;Santa Olga;Cunco
+256;CLI00256;31;Cucao;La Junta
+257;CLI00257;23;Melipilla;Compu
+258;CLI00258;25;Baños Morales;Putre
+259;CLI00259;49;El Tabo;Santa Olga
+260;CLI00260;26;Compu;Vichuquén
+261;CLI00261;25;Las Trincheras;Puerto Aysén
+262;CLI00262;49;Valparaíso;San José de Maipo
+263;CLI00263;37;Vilches;Hornopirén
+264;CLI00264;43;Futrono;El Melocotón
+265;CLI00265;25;Las Trancas (Termas de Chillán);El Tabo
+266;CLI00266;22;Coyhaique;Río Puelo
+267;CLI00267;45;Tomé;Puerto Bertrand
+268;CLI00268;37;Rinconada;Llicaldad
+269;CLI00269;20;San Alfonso;Pelluhue
+270;CLI00270;40;Lago Ranco;El Tabo
+271;CLI00271;33;Caleta Tortel;Concón
+272;CLI00272;46;Puerto Fonck;Constitución
+273;CLI00273;31;San Fabián de Alico;La Laguna
+274;CLI00274;26;Talca;Coquimbo
+275;CLI00275;32;Tulahuén;Isla Negra
+276;CLI00276;42;La Tirana;Villa Tehuelches
+277;CLI00277;31;El Manzano;Iquique
+278;CLI00278;34;Limache;El Guayacán
+279;CLI00279;27;Bahia Inglesa;Melipilla
+280;CLI00280;39;Calama;Puerto Cárdenas
+281;CLI00281;45;Las Cabras;Catripulli
+282;CLI00282;44;Pedregal;Curacautín
+283;CLI00283;24;Cochrane;Pichidangui
+284;CLI00284;27;Carelmapu;El Boyenar
+285;CLI00285;31;Las Trincheras;Juan Lopez
+286;CLI00286;40;Olmué;Manzanar
+287;CLI00287;45;Vilches;Valdivia
+288;CLI00288;43;Isla R. Crusoe (Juan Fernández);Rangue
+289;CLI00289;37;Lican Ray;Putre
+290;CLI00290;24;Ancud;Coquimbo
+291;CLI00291;37;Quintay;Punta Arenas
+292;CLI00292;19;Bahia Inglesa;Rinconada
+293;CLI00293;36;Puerto Natales;Mehuín
+294;CLI00294;41;Mehuín;San Félix
+295;CLI00295;20;Puerto Choque;Los Molinos
+296;CLI00296;25;Quillota;Río Bueno
+297;CLI00297;35;Llifén;Torres Del Paine
+298;CLI00298;23;Iloca;Santa Cruz
+299;CLI00299;37;Los Vilos;Frutillar Alto
+300;CLI00300;25;Pelluhue;Puerto Cisnes
+301;CLI00301;48;Lago Ranco;Isla de Maipo
+302;CLI00302;30;Victoria;Punta Arenas
+303;CLI00303;35;Baños Morales;El Guayacán
+304;CLI00304;43;Caleta Tortel;Juan Lopez
+305;CLI00305;39;Las Vertientes;Frutillar Alto
+306;CLI00306;37;Valdivia;Coihaique
+307;CLI00307;28;El Tabo;Lontué
+308;CLI00308;31;Punta Arenas;El Melocotón
+309;CLI00309;49;Catripulli;Puente Negro
+310;CLI00310;37;Puerto Ingeniero Ibáñez;Mamiña
+311;CLI00311;34;Osorno;Angol
+312;CLI00312;42;Frutillar Alto;Concón
+313;CLI00313;27;Pozo Almonte;Colonia Lautaro
+314;CLI00314;41;Las Trancas (Termas de Chillán);Las Vertientes
+315;CLI00315;38;Melipilla;Cunco
+316;CLI00316;48;Molco;Mehuín
+317;CLI00317;41;Pelluhue;Iquique
+318;CLI00318;35;Puerto Montt;Frutillar
+319;CLI00319;29;Mamiña;Bahia Inglesa
+320;CLI00320;35;Metri;Constitución
+321;CLI00321;38;Talca;Catripulli
+322;CLI00322;34;Melipilla;Ritoque
+323;CLI00323;49;La Serena;Las Trancas (Termas de Chillán)
+324;CLI00324;39;La Herradura;Isla de Maipo
+325;CLI00325;45;Carelmapu;Frutillar
+326;CLI00326;30;La Herradura;Llicaldad
+327;CLI00327;39;Talca;San Félix
+328;CLI00328;39;Río Puelo;Frutillar
+329;CLI00329;20;Isla R. Crusoe (Juan Fernández);Calama
+330;CLI00330;45;El Boyenar;Punta Choros
+331;CLI00331;19;Algarrobo;Piruquina
+332;CLI00332;22;Nercón;Puerto Natales
+333;CLI00333;28;Nercón;Coronel
+334;CLI00334;41;Pelluhue;Concón
+335;CLI00335;32;Futaleufú;Curanipe
+336;CLI00336;42;Alcohuaz;El Guayacán
+337;CLI00337;32;Rivadavia;Putre
+338;CLI00338;24;Pedregal;Catripulli
+339;CLI00339;23;Las Cabras;Castro
+340;CLI00340;27;La Serena;Puerto Natales
+341;CLI00341;42;Victoria;Alcohuaz
+342;CLI00342;50;Viña Del Mar;Saltos del Laja
+343;CLI00343;25;Melipilla;Metri
+344;CLI00344;38;Guanaqueros;Pichilemu
+345;CLI00345;30;Puerto Natales;Puerto Pirihueico
+346;CLI00346;45;Ritoque;Mehuín
+347;CLI00347;49;Chauquén;Tulahuén
+348;CLI00348;31;Puerto Varas;Osorno
+349;CLI00349;43;Tomé;Iloca
+350;CLI00350;48;Lican Ray;Algarrobo
+351;CLI00351;49;Talca;Caldera
+352;CLI00352;25;Llifén;Llicaldad
+353;CLI00353;49;Buchupureo;Angol
+354;CLI00354;47;Quenuir;Las Cruces
+355;CLI00355;38;Alto del Carmen;Quintay
+356;CLI00356;23;Angol;Rangue
+357;CLI00357;22;Ensenada;Alto del Carmen
+358;CLI00358;33;Tomé;Dichato
+359;CLI00359;49;Pica;Villarrica
+360;CLI00360;40;Curanipe;Chauquén
+361;CLI00361;48;Constitución;Las Cruces
+362;CLI00362;35;Puerto Saavedra;Ritoque
+363;CLI00363;24;El Tabo;Mehuín
+364;CLI00364;24;Huasco;Saltos del Laja
+365;CLI00365;46;Victoria;Futrono
+366;CLI00366;26;Cahuil;San Pedro De Atacama
+367;CLI00367;48;Quillaipe;Torres Del Paine
+368;CLI00368;41;Santa Cruz;El Guayacán
+369;CLI00369;20;Colonia Lautaro;Talca
+370;CLI00370;26;Puerto Bertrand;Los Vilos
+371;CLI00371;22;Termas del Flaco;Tongoy
+372;CLI00372;29;El Molle;Coyhaique
+373;CLI00373;36;La Junta;Pedregal
+374;CLI00374;23;Panimavida;Huasco
+375;CLI00375;28;Cochiguaz;Rangue
+376;CLI00376;43;Puerto Natales;Coquimbo
+377;CLI00377;37;El Manzano;Coihaique
+378;CLI00378;39;Punta De Tralca;Quillón
+379;CLI00379;50;Cucao;Tomé
+380;CLI00380;41;Valdivia;Vichuquén
+381;CLI00381;36;Villa O'Higgins;Santa Cruz
+382;CLI00382;33;Puerto Ingeniero Ibáñez;El Boyenar
+383;CLI00383;23;Frutillar;Freire
+384;CLI00384;18;Recinto;Vicuña
+385;CLI00385;48;Iloca;Niebla
+386;CLI00386;40;Puente Negro;Concón
+387;CLI00387;41;Vilches;Tulahuén
+388;CLI00388;46;La Laguna;Valparaíso
+389;CLI00389;37;Iloca;San José de Maipo
+390;CLI00390;49;Saltos del Laja;Puerto Cisnes
+391;CLI00391;24;Cahuil;El Manzano
+392;CLI00392;24;Puerto Fonck;Caldera
+393;CLI00393;45;La Serena;La Laguna
+394;CLI00394;27;Puyuhuapi;Puerto Montt
+395;CLI00395;18;Tinguiririca;Puerto Lloles
+396;CLI00396;48;Tongoy;Osorno
+397;CLI00397;44;Castro;Huasco
+398;CLI00398;42;La Tirana;Alcohuaz
+399;CLI00399;31;El Boyenar;Victoria
+400;CLI00400;43;Caleta Tortel;Quillaipe
+401;CLI00401;37;El Manzano;Villa O'Higgins
+402;CLI00402;35;Saltos del Laja;Dichato
+403;CLI00403;45;La Tirana;Rinconada
+404;CLI00404;38;Alto del Carmen;Puente Negro
+405;CLI00405;33;Puerto Montt;Osorno
+406;CLI00406;36;Colonia Lautaro;Iquique
+407;CLI00407;35;El Melocotón;Puente Negro
+408;CLI00408;30;Isla R. Crusoe (Juan Fernández);Carelmapu
+409;CLI00409;22;El Guayacán;Villa O'Higgins
+410;CLI00410;21;Carelmapu;Villa Alemana
+411;CLI00411;26;Putre;Totoralillo
+412;CLI00412;21;El Guayacán;Lebu
+413;CLI00413;38;Dichato;Quenuir
+414;CLI00414;43;Las Trancas (Termas de Chillán);Algarrobo
+415;CLI00415;21;Coihaique;El Boyenar
+416;CLI00416;29;Molco;Panimavida
+417;CLI00417;48;Iquique;Vilches
+418;CLI00418;34;Pichilemu;Frutillar Alto
+419;CLI00419;27;San Alfonso;Compu
+420;CLI00420;22;Laguna Verde;Puerto Aysén
+421;CLI00421;18;Limache;Cobquecura
+422;CLI00422;47;Caleta Tortel;Melipilla
+423;CLI00423;46;La Laguna;Tomé
+424;CLI00424;26;El Molle;Santa Juana
+425;CLI00425;29;Torres Del Paine;Río Puelo
+426;CLI00426;28;Colonia Lautaro;Pucón
+427;CLI00427;38;La Herradura;El Médano
+428;CLI00428;41;Coñaripe;Puerto Aysén
+429;CLI00429;41;San Alfonso;Los Molinos
+430;CLI00430;28;Nercón;Juan Lopez
+431;CLI00431;43;Coronel;Valparaíso
+432;CLI00432;44;Algarrobo;Los Molles
+433;CLI00433;32;Malalcahuello;Santa Olga
+434;CLI00434;43;Taltal;Villa Alemana
+435;CLI00435;33;Pelluhue;Panimavida
+436;CLI00436;34;Puerto Guadal;Punta De Tralca
+437;CLI00437;48;Frutillar Alto;Tirúa
+438;CLI00438;37;La Tirana;Coquimbo
+439;CLI00439;33;Las Trincheras;Las Vertientes
+440;CLI00440;19;Quenuir;Puerto Saavedra
+441;CLI00441;20;Niebla;San Félix
+442;CLI00442;39;Cucao;Termas del Flaco
+443;CLI00443;24;Puerto Lloles;Llicaldad
+444;CLI00444;39;El Guayacán;Cahuil
+445;CLI00445;20;Puyuhuapi;Coihaique
+446;CLI00446;38;Chanavayita;Victoria
+447;CLI00447;28;Cahuil;Punta De Tralca
+448;CLI00448;18;Puerto Cárdenas;Cucao
+449;CLI00449;30;Cobquecura;Malalcahuello
+450;CLI00450;46;Puerto Cárdenas;Caleta Tortel
+451;CLI00451;30;Laguna Verde;Catripulli
+452;CLI00452;27;Ilihue;El Guayacán
+453;CLI00453;43;Recinto;Pedregal
+454;CLI00454;31;Chile Chico;Pelluhue
+455;CLI00455;32;Caleta Tortel;Lican Ray
+456;CLI00456;48;Baños Morales;Curanipe
+457;CLI00457;40;Villa O'Higgins;Los Molinos
+458;CLI00458;45;La Serena;Cochiguaz
+459;CLI00459;23;Bahia Inglesa;Colonia Lautaro
+460;CLI00460;39;Puerto Montt;Río Puelo
+461;CLI00461;37;Valdivia;Coquimbo
+462;CLI00462;49;Futrono;Cucao
+463;CLI00463;30;Taltal;Puerto Montt
+464;CLI00464;49;Constitución;Ensenada
+465;CLI00465;45;Quillota;Puente Negro
+466;CLI00466;29;Cahuil;Las Cabras
+467;CLI00467;50;Tirúa;Villa Tehuelches
+468;CLI00468;28;Cobquecura;Llifén
+469;CLI00469;30;Rangue;Villa O'Higgins
+470;CLI00470;21;Buchupureo;El Molle
+471;CLI00471;48;Metri;La Serena
+472;CLI00472;26;San Alfonso;Puerto Aysén
+473;CLI00473;37;Punta Arenas;Puerto Choque
+474;CLI00474;33;El Melocotón;Pisco Elqui
+475;CLI00475;25;Villa O'Higgins;Puyuhuapi
+476;CLI00476;48;El Boyenar;El Guayacán
+477;CLI00477;33;El Quisco;Los Molinos
+478;CLI00478;30;Pichilemu;Quintay
+479;CLI00479;38;Rangue;Pichilemu
+480;CLI00480;24;Osorno;Cochrane
+481;CLI00481;34;Alcohuaz;Viña Del Mar
+482;CLI00482;22;El Manzano;Dichato
+483;CLI00483;30;Pisco Elqui;La Laguna
+484;CLI00484;23;Alcohuaz;Piruquina
+485;CLI00485;45;Buchupureo;Tomé
+486;CLI00486;39;Putre;Punta Arenas
+487;CLI00487;49;El Molle;El Quisco
+488;CLI00488;43;La Tirana;Metri
+489;CLI00489;50;Coyhaique;Mamiña
+490;CLI00490;25;Manzanar;Villa O'Higgins
+491;CLI00491;48;Ilihue;Cochrane
+492;CLI00492;27;La Herradura;Ilihue
+493;CLI00493;48;Manzanar;Los Molles
+494;CLI00494;37;Frutillar;Puerto Fonck
+495;CLI00495;19;Villa O'Higgins;San Félix
+496;CLI00496;36;Lican Ray;Olmué
+497;CLI00497;24;Alto del Carmen;Isla de Maipo
+498;CLI00498;42;Pedregal;Putre
+499;CLI00499;45;Molco;Lican Ray
+500;CLI00500;30;El Colorado;Puerto Natales
+501;CLI00501;30;Frutillar Alto;Lontué
+502;CLI00502;50;Curacautín;Villa O'Higgins
+503;CLI00503;41;Putre;Isla de Maipo
+504;CLI00504;45;Ritoque;Pichidangui
+505;CLI00505;30;Lebu;Panimavida
+506;CLI00506;47;La Junta;Melipilla
+507;CLI00507;19;El Molle;Viña Del Mar
+508;CLI00508;41;Coronel;Coñaripe
+509;CLI00509;49;Piruquina;Los Molinos
+510;CLI00510;43;Punta Arenas;Torres Del Paine
+511;CLI00511;46;Catripulli;El Quisco
+512;CLI00512;23;Puerto Montt;Los Vilos
+513;CLI00513;35;El Quisco;Puyuhuapi
+514;CLI00514;49;Lebu;Freire
+515;CLI00515;32;Futrono;Ensenada
+516;CLI00516;49;Victoria;El Colorado
+517;CLI00517;29;Pelluhue;Panimavida
+518;CLI00518;32;San Pedro De Atacama;Puyuhuapi
+519;CLI00519;44;Valparaíso;Isla de Maipo
+520;CLI00520;23;Rangue;Villa O'Higgins
+521;CLI00521;29;Quillaipe;Constitución
+522;CLI00522;40;Puerto Natales;Cucao
+523;CLI00523;29;Vilches;Concón
+524;CLI00524;24;Puerto Aysén;Valdivia
+525;CLI00525;26;Coihaique;Río Bueno
+526;CLI00526;26;Puerto Bertrand;Angol
+527;CLI00527;39;Hornopirén;San José de Maipo
+528;CLI00528;39;Panimavida;Castro
+529;CLI00529;36;Puerto Choque;Buchupureo
+530;CLI00530;44;Puente Negro;San Alfonso
+531;CLI00531;24;Lontué;Llifén
+532;CLI00532;39;Piruquina;Chanavayita
+533;CLI00533;24;Vilches;Carelmapu
+534;CLI00534;47;Río Bueno;Melipilla
+535;CLI00535;46;Curacautín;Santa Juana
+536;CLI00536;22;Recinto;Tinguiririca
+537;CLI00537;22;Reñaca;Iquique
+538;CLI00538;40;Frutillar;Lago Ranco
+539;CLI00539;22;Carelmapu;Pica
+540;CLI00540;33;Futaleufú;Puyuhuapi
+541;CLI00541;21;Caleta Tortel;Cunco
+542;CLI00542;37;Valparaíso;Isla de Maipo
+543;CLI00543;22;Puerto Lloles;Villa Alemana
+544;CLI00544;33;Pedregal;Puente Negro
+545;CLI00545;35;Mamiña;Niebla
+546;CLI00546;40;Lebu;Cochiguaz
+547;CLI00547;26;Puerto Ingeniero Ibáñez;Santa Juana
+548;CLI00548;32;Frutillar;Totoralillo
+549;CLI00549;26;Santa Cruz;Santa Juana
+550;CLI00550;22;Puerto Montt;Tirúa
+551;CLI00551;24;Reñaca;Ritoque
+552;CLI00552;41;Punta Arenas;Cochrane
+553;CLI00553;42;Puerto Guadal;Isla R. Crusoe (Juan Fernández)
+554;CLI00554;44;Caburga;Frutillar
+555;CLI00555;48;Santa Juana;El Quisco
+556;CLI00556;24;Alcohuaz;Puertecillo
+557;CLI00557;32;Piruquina;San Félix
+558;CLI00558;37;Mehuín;Puerto Guadal
+559;CLI00559;38;Playa La Virgen;Tulahuén
+560;CLI00560;31;San Fabián de Alico;Las Vertientes
+561;CLI00561;39;La Junta;Limache
+562;CLI00562;23;Isla de Maipo;Victoria
+563;CLI00563;19;Los Molinos;La Tirana
+564;CLI00564;30;El Quisco;Pedregal
+565;CLI00565;32;Puerto Fonck;Pisco Elqui
+566;CLI00566;46;Chile Chico;Vichuquén
+567;CLI00567;43;Santa Juana;Constitución
+568;CLI00568;23;Manzanar;Llifén
+569;CLI00569;40;Concón;Osorno
+570;CLI00570;34;Vicuña;Chauquén
+571;CLI00571;43;El Manzano;Iquique
+572;CLI00572;33;Angol;Peleco
+573;CLI00573;22;Las Vertientes;Isla R. Crusoe (Juan Fernández)
+574;CLI00574;33;Hornopirén;Puerto Cárdenas
+575;CLI00575;21;La Tirana;Panimavida
+576;CLI00576;18;Puerto Saavedra;Compu
+577;CLI00577;50;El Boyenar;Pedregal
+578;CLI00578;36;Catripulli;Olmué
+579;CLI00579;30;Villarrica;El Guayacán
+580;CLI00580;26;Iquique;Puerto Ingeniero Ibáñez
+581;CLI00581;19;Puerto Montt;San Pedro De Atacama
+582;CLI00582;42;San Pedro De Atacama;El Colorado
+583;CLI00583;34;Alcohuaz;Pichilemu
+584;CLI00584;47;Curanipe;Los Molinos
+585;CLI00585;29;Las Cabras;Lago Ranco
+586;CLI00586;21;Tomé;Manzanar
+587;CLI00587;42;San Pedro De Atacama;Saltos del Laja
+588;CLI00588;33;Entre Lagos;Puerto Saavedra
+589;CLI00589;44;Saltos del Laja;Puerto Saavedra
+590;CLI00590;30;Puerto Pirihueico;Huasco
+591;CLI00591;19;Carelmapu;El Colorado
+592;CLI00592;34;Chauquén;Villarrica
+593;CLI00593;31;Puerto Guadal;Coihaique
+594;CLI00594;31;Isla Negra;Cochrane
+595;CLI00595;46;Puerto Cárdenas;Los Molinos
+596;CLI00596;42;Las Cabras;Llifén
+597;CLI00597;35;Caleta Tortel;Juan Lopez
+598;CLI00598;49;Los Molinos;Olmué
+599;CLI00599;34;Recinto;Puerto Bertrand
+600;CLI00600;39;Puerto Montt;Mamiña
+601;CLI00601;41;Puerto Bertrand;Coquimbo
+602;CLI00602;35;Puertecillo;Quillaipe
+603;CLI00603;23;Caburga;Melipilla
+604;CLI00604;50;Saltos del Laja;Juan Lopez
+605;CLI00605;49;Limache;Panimavida
+606;CLI00606;45;Piruquina;Ritoque
+607;CLI00607;46;Pichidangui;Puyuhuapi
+608;CLI00608;44;Lican Ray;La Laguna
+609;CLI00609;23;Caldera;Las Cruces
+610;CLI00610;36;Los Molinos;Las Trancas (Termas de Chillán)
+611;CLI00611;50;Vilches;Nercón
+612;CLI00612;22;El Colorado;Puerto Choque
+613;CLI00613;31;Puerto Saavedra;Punta Choros
+614;CLI00614;38;Panimavida;El Quisco
+615;CLI00615;33;Puerto Natales;Las Trancas (Termas de Chillán)
+616;CLI00616;41;Playa La Virgen;Juan Lopez
+617;CLI00617;30;Angol;Frutillar
+618;CLI00618;37;Iloca;Mamiña
+619;CLI00619;22;Entre Lagos;Puerto Montt
+620;CLI00620;27;Cucao;Chanavayita
+621;CLI00621;29;Reñaca;Pelluhue
+622;CLI00622;23;Villa O'Higgins;Pichilemu
+623;CLI00623;39;Puerto Cisnes;Frutillar Alto
+624;CLI00624;31;Pica;Ensenada
+625;CLI00625;37;Pichilemu;Puente Negro
+626;CLI00626;50;Caburga;Tomé
+627;CLI00627;43;Putre;El Guayacán
+628;CLI00628;33;Malalcahuello;Santa Juana
+629;CLI00629;30;Puerto Choque;Las Vertientes
+630;CLI00630;27;Putre;Mamiña
+631;CLI00631;43;La Herradura;San Félix
+632;CLI00632;18;Huasco;Talca
+633;CLI00633;41;Totoralillo;Valparaíso
+634;CLI00634;25;Puyuhuapi;El Guayacán
+635;CLI00635;29;Lican Ray;Cochrane
+636;CLI00636;26;Juan Lopez;Totoralillo
+637;CLI00637;19;Buchupureo;Punta Choros
+638;CLI00638;18;San José de Maipo;Compu
+639;CLI00639;37;Las Trincheras;Las Trincheras
+640;CLI00640;35;Punta De Tralca;Olmué
+641;CLI00641;45;Melipilla;Puerto Guadal
+642;CLI00642;48;Vichuquén;Viña Del Mar
+643;CLI00643;28;Lican Ray;Puertecillo
+644;CLI00644;21;La Tirana;El Médano
+645;CLI00645;26;El Boyenar;Puertecillo
+646;CLI00646;42;Punta Choros;Entre Lagos
+647;CLI00647;47;Pisco Elqui;Caburga
+648;CLI00648;27;Puertecillo;Villarrica
+649;CLI00649;46;Caburga;Viña Del Mar
+650;CLI00650;20;Coñaripe;El Manzano
+651;CLI00651;36;Torres Del Paine;Pisco Elqui
+652;CLI00652;41;Frutillar;Puerto Pirihueico
+653;CLI00653;43;Santa Cruz;Carelmapu
+654;CLI00654;25;Vicuña;Puerto Pirihueico
+655;CLI00655;36;Maitencillo;Quillota
+656;CLI00656;47;Quintay;El Quisco
+657;CLI00657;35;El Melocotón;Piruquina
+658;CLI00658;19;El Manzano;Pisco Elqui
+659;CLI00659;33;Vilches;Guanaqueros
+660;CLI00660;40;Coihaique;Taltal
+661;CLI00661;38;El Tabo;Termas del Flaco
+662;CLI00662;43;Lican Ray;Los Vilos
+663;CLI00663;23;Cahuil;Puerto Cárdenas
+664;CLI00664;24;Carelmapu;Quintay
+665;CLI00665;40;Nercón;Victoria
+666;CLI00666;39;La Tirana;Curanipe
+667;CLI00667;50;Puerto Pirihueico;Pica
+668;CLI00668;34;Caleta Tortel;Catripulli
+669;CLI00669;36;Curacautín;Tinguiririca
+670;CLI00670;30;La Tirana;El Manzano
+671;CLI00671;46;Ensenada;El Boyenar
+672;CLI00672;27;Pichilemu;El Quisco
+673;CLI00673;48;Playa La Virgen;Frutillar Alto
+674;CLI00674;42;Tomé;Baños Morales
+675;CLI00675;35;Lontué;Nercón
+676;CLI00676;44;San José de Maipo;Ensenada
+677;CLI00677;20;Cunco;Panguipulli
+678;CLI00678;23;Río Bueno;Alto del Carmen
+679;CLI00679;43;Taltal;Bahia Inglesa
+680;CLI00680;36;Tirúa;Puerto Cisnes
+681;CLI00681;22;Santa Cruz;Quillón
+682;CLI00682;36;Laguna Verde;Metri
+683;CLI00683;43;Puerto Montt;Isla R. Crusoe (Juan Fernández)
+684;CLI00684;39;Chanavayita;Puerto Montt
+685;CLI00685;23;Quillaipe;Los Molles
+686;CLI00686;46;Los Vilos;Mehuín
+687;CLI00687;21;Juan Lopez;Coyhaique
+688;CLI00688;50;Bahia Inglesa;Puerto Saavedra
+689;CLI00689;34;Taltal;Quillaipe
+690;CLI00690;33;Manzanar;Lebu
+691;CLI00691;50;Manzanar;Reñaca
+692;CLI00692;50;Chanavayita;Futaleufú
+693;CLI00693;40;Caldera;Santa Juana
+694;CLI00694;20;Taltal;Manzanar
+695;CLI00695;48;Cucao;Villa Alemana
+696;CLI00696;39;Buchupureo;Dichato
+697;CLI00697;26;Villa Alemana;Tirúa
+698;CLI00698;36;Puerto Varas;Manzanar
+699;CLI00699;50;La Junta;Taltal
+700;CLI00700;39;Manzanar;Villarrica
+701;CLI00701;50;Laguna Verde;Melipilla
+702;CLI00702;38;Santa Cruz;Paihuano
+703;CLI00703;30;Curacautín;Lebu
+704;CLI00704;25;Cahuil;La Herradura
+705;CLI00705;22;Vilches;El Melocotón
+706;CLI00706;44;Bahia Inglesa;Cahuil
+707;CLI00707;28;La Laguna;Cochiguaz
+708;CLI00708;37;Vilches;Punta Arenas
+709;CLI00709;34;Cunco;Las Cruces
+710;CLI00710;38;Villa Alemana;Frutillar Alto
+711;CLI00711;48;Punta De Tralca;Freire
+712;CLI00712;46;Ilihue;Taltal
+713;CLI00713;43;Puerto Varas;Panguipulli
+714;CLI00714;34;Vilches;Isla R. Crusoe (Juan Fernández)
+715;CLI00715;24;Rinconada;Talca
+716;CLI00716;32;Huasco;Manzanar
+717;CLI00717;39;Coyhaique;Bahia Inglesa
+718;CLI00718;32;Pelluhue;Niebla
+719;CLI00719;38;Pedregal;Punta Arenas
+720;CLI00720;25;Bahia Inglesa;Coquimbo
+721;CLI00721;25;Llifén;Pozo Almonte
+722;CLI00722;26;San Pedro De Atacama;Punta Choros
+723;CLI00723;49;Puerto Cárdenas;Puerto Fonck
+724;CLI00724;28;Castro;Puerto Cárdenas
+725;CLI00725;40;Rinconada;Alto del Carmen
+726;CLI00726;44;Quillota;Puerto Choque
+727;CLI00727;22;Melipilla;Limache
+728;CLI00728;33;Los Molles;Futrono
+729;CLI00729;34;Ilihue;Iquique
+730;CLI00730;26;Pelluhue;Puerto Fonck
+731;CLI00731;26;Los Molles;Malalcahuello
+732;CLI00732;42;Pichidangui;Olmué
+733;CLI00733;28;Peleco;Torres Del Paine
+734;CLI00734;45;Alto del Carmen;El Médano
+735;CLI00735;40;Los Molinos;Punta Arenas
+736;CLI00736;38;Termas del Flaco;Caburga
+737;CLI00737;37;Frutillar;Puyuhuapi
+738;CLI00738;26;Rinconada;Puente Negro
+739;CLI00739;38;El Boyenar;Isla Negra
+740;CLI00740;45;Freire;Constitución
+741;CLI00741;40;Algarrobo;Puerto Choque
+742;CLI00742;40;Chauquén;Los Molles
+743;CLI00743;47;Coronel;Peleco
+744;CLI00744;20;Coronel;Llicaldad
+745;CLI00745;27;Totoralillo;Torres Del Paine
+746;CLI00746;48;Los Molinos;La Serena
+747;CLI00747;38;Tulahuén;Malalcahuello
+748;CLI00748;21;La Tirana;Panguipulli
+749;CLI00749;25;Futaleufú;Concón
+750;CLI00750;22;El Quisco;Saltos del Laja
+751;CLI00751;43;Playa La Virgen;Catripulli
+752;CLI00752;40;Quillón;La Tirana
+753;CLI00753;43;Huasco;Frutillar Alto
+754;CLI00754;19;Isla Negra;Santa Juana
+755;CLI00755;22;El Colorado;Coihaique
+756;CLI00756;43;Niebla;El Quisco
+757;CLI00757;50;Malalcahuello;San José de Maipo
+758;CLI00758;35;La Serena;Lago Ranco
+759;CLI00759;31;Algarrobo;Tongoy
+760;CLI00760;18;Villarrica;Puerto Pirihueico
+761;CLI00761;22;Chauquén;Puerto Cisnes
+762;CLI00762;22;Algarrobo;Pucón
+763;CLI00763;45;Frutillar Alto;Quintay
+764;CLI00764;48;Colonia Lautaro;Lebu
+765;CLI00765;49;Coihaique;Río Bueno
+766;CLI00766;23;Frutillar Alto;Alto del Carmen
+767;CLI00767;27;Puente Negro;Torres Del Paine
+768;CLI00768;23;Juan Lopez;Guanaqueros
+769;CLI00769;22;Los Molinos;Chile Chico
+770;CLI00770;45;Freire;Vicuña
+771;CLI00771;25;Puerto Varas;El Guayacán
+772;CLI00772;45;Entre Lagos;Rangue
+773;CLI00773;49;Coquimbo;Ancud
+774;CLI00774;20;Pozo Almonte;Catripulli
+775;CLI00775;50;Concón;La Junta
+776;CLI00776;43;El Manzano;La Herradura
+777;CLI00777;25;Laguna Verde;Entre Lagos
+778;CLI00778;22;Las Vertientes;Los Vilos
+779;CLI00779;48;Cobquecura;Ensenada
+780;CLI00780;22;El Molle;Manzanar
+781;CLI00781;25;Dichato;Pisco Elqui
+782;CLI00782;37;Puerto Montt;Futaleufú
+783;CLI00783;42;Calama;Totoralillo
+784;CLI00784;28;Los Molles;Punta De Tralca
+785;CLI00785;20;El Médano;Frutillar
+786;CLI00786;40;Llifén;Puerto Pirihueico
+787;CLI00787;44;Valdivia;Dichato
+788;CLI00788;43;Coronel;Las Trancas (Termas de Chillán)
+789;CLI00789;19;Victoria;San Félix
+790;CLI00790;49;Rivadavia;Victoria
+791;CLI00791;23;Lontué;San Alfonso
+792;CLI00792;34;Punta De Tralca;Futrono
+793;CLI00793;33;Tongoy;Iloca
+794;CLI00794;44;Cobquecura;Carelmapu
+795;CLI00795;20;Recinto;El Melocotón
+796;CLI00796;26;Río Puelo;Cochiguaz
+797;CLI00797;49;Cobquecura;Panguipulli
+798;CLI00798;28;Coihaique;Ensenada
+799;CLI00799;43;Curacautín;Curacautín
+800;CLI00800;32;Santa Olga;Pelluhue
+801;CLI00801;32;Chile Chico;Piruquina
+802;CLI00802;43;Caleta Tortel;Pedregal
+803;CLI00803;38;Saltos del Laja;El Médano
+804;CLI00804;18;Pucón;Pica
+805;CLI00805;41;Tongoy;Melipilla
+806;CLI00806;28;Río Bueno;Calama
+807;CLI00807;20;Río Bueno;Ensenada
+808;CLI00808;24;Santa Cruz;Puertecillo
+809;CLI00809;47;Calama;Pozo Almonte
+810;CLI00810;22;Hornopirén;Puente Negro
+811;CLI00811;25;Alcohuaz;Lebu
+812;CLI00812;35;Isla Negra;Pozo Almonte
+813;CLI00813;44;Tongoy;Villarrica
+814;CLI00814;23;Villa O'Higgins;Coronel
+815;CLI00815;31;Compu;Quillota
+816;CLI00816;34;Chanavayita;Ritoque
+817;CLI00817;43;Puerto Choque;Colonia Lautaro
+818;CLI00818;28;Coyhaique;Catripulli
+819;CLI00819;32;Isla R. Crusoe (Juan Fernández);Maitencillo
+820;CLI00820;27;Catripulli;Puerto Fonck
+821;CLI00821;33;Punta Choros;Mamiña
+822;CLI00822;19;Llifén;Castro
+823;CLI00823;21;Puerto Ingeniero Ibáñez;San Pedro De Atacama
+824;CLI00824;32;Tirúa;Tinguiririca
+825;CLI00825;24;Olmué;El Manzano
+826;CLI00826;45;La Laguna;Tinguiririca
+827;CLI00827;41;Santa Cruz;Coronel
+828;CLI00828;45;Pozo Almonte;Iloca
+829;CLI00829;45;Osorno;Mehuín
+830;CLI00830;32;Vichuquén;Punta Choros
+831;CLI00831;38;Puerto Fonck;Molco
+832;CLI00832;24;Alto del Carmen;Isla Negra
+833;CLI00833;47;Recinto;El Manzano
+834;CLI00834;42;Quenuir;El Médano
+835;CLI00835;45;Freire;Puerto Cisnes
+836;CLI00836;41;La Herradura;Juan Lopez
+837;CLI00837;33;Cochiguaz;Recinto
+838;CLI00838;22;Victoria;Cochiguaz
+839;CLI00839;49;Pichilemu;Huasco
+840;CLI00840;30;Alto del Carmen;La Serena
+841;CLI00841;34;Termas del Flaco;El Colorado
+842;CLI00842;23;Puerto Saavedra;Las Cruces
+843;CLI00843;33;Lago Ranco;Villa Alemana
+844;CLI00844;49;El Guayacán;Los Molles
+845;CLI00845;38;Quintay;Ilihue
+846;CLI00846;30;Torres Del Paine;Metri
+847;CLI00847;35;Coquimbo;Santa Juana
+848;CLI00848;35;Cucao;San Pedro De Atacama
+849;CLI00849;49;Compu;Coñaripe
+850;CLI00850;44;El Guayacán;El Médano
+851;CLI00851;45;Ancud;Punta De Tralca
+852;CLI00852;26;Las Cabras;Taltal
+853;CLI00853;34;Punta De Tralca;Caburga
+854;CLI00854;27;Cochiguaz;Castro
+855;CLI00855;25;Las Trancas (Termas de Chillán);El Manzano
+856;CLI00856;30;Coronel;Metri
+857;CLI00857;48;Las Cabras;Puerto Choque
+858;CLI00858;46;Puerto Varas;Coronel
+859;CLI00859;44;Rinconada;Lebu
+860;CLI00860;49;Río Puelo;Los Vilos
+861;CLI00861;41;Tongoy;La Laguna
+862;CLI00862;18;La Tirana;Caleta Tortel
+863;CLI00863;19;Quintay;Puyuhuapi
+864;CLI00864;46;Tongoy;Colonia Lautaro
+865;CLI00865;19;Cucao;Olmué
+866;CLI00866;33;Concón;Puerto Saavedra
+867;CLI00867;30;Puertecillo;Cobquecura
+868;CLI00868;42;Río Bueno;Totoralillo
+869;CLI00869;36;Vicuña;Panimavida
+870;CLI00870;43;Caldera;Quillón
+871;CLI00871;24;Panimavida;Colonia Lautaro
+872;CLI00872;23;Las Cruces;Coquimbo
+873;CLI00873;42;Caldera;Huasco
+874;CLI00874;30;Lontué;Panimavida
+875;CLI00875;39;Entre Lagos;Puente Negro
+876;CLI00876;20;El Manzano;Santa Cruz
+877;CLI00877;24;Panimavida;Piruquina
+878;CLI00878;42;Nercón;Entre Lagos
+879;CLI00879;39;El Manzano;Reñaca
+880;CLI00880;38;Pozo Almonte;Tulahuén
+881;CLI00881;35;Puente Negro;Tulahuén
+882;CLI00882;45;Caburga;Alcohuaz
+883;CLI00883;48;Huasco;Pucón
+884;CLI00884;45;Ensenada;Caleta Tortel
+885;CLI00885;48;Quillota;Puerto Pirihueico
+886;CLI00886;28;Santa Juana;Puerto Cárdenas
+887;CLI00887;40;Lebu;Colonia Lautaro
+888;CLI00888;36;Puerto Fonck;Rivadavia
+889;CLI00889;31;Hornopirén;Llifén
+890;CLI00890;37;Panguipulli;Paihuano
+891;CLI00891;37;El Melocotón;La Laguna
+892;CLI00892;18;Castro;La Serena
+893;CLI00893;18;Futrono;Los Molles
+894;CLI00894;49;Puerto Ingeniero Ibáñez;Catripulli
+895;CLI00895;32;La Junta;Quillota
+896;CLI00896;49;Lontué;Tirúa
+897;CLI00897;31;Iloca;Limache
+898;CLI00898;50;Viña Del Mar;Santa Cruz
+899;CLI00899;27;Laguna Verde;Coronel
+900;CLI00900;19;Los Molinos;Buchupureo
+901;CLI00901;43;Coihaique;Panimavida
+902;CLI00902;42;Cahuil;Puerto Fonck
+903;CLI00903;18;Las Trancas (Termas de Chillán);Puerto Guadal
+904;CLI00904;48;Puerto Aysén;Caldera
+905;CLI00905;20;San Alfonso;Mehuín
+906;CLI00906;24;Chauquén;Punta Choros
+907;CLI00907;38;Panimavida;Quillaipe
+908;CLI00908;39;Pedregal;Panimavida
+909;CLI00909;43;Puerto Fonck;Puerto Natales
+910;CLI00910;48;Lebu;Villa Alemana
+911;CLI00911;37;Viña Del Mar;Hornopirén
+912;CLI00912;18;Reñaca;Las Cruces
+913;CLI00913;26;Totoralillo;Compu
+914;CLI00914;39;Caldera;Malalcahuello
+915;CLI00915;45;La Tirana;Termas del Flaco
+916;CLI00916;38;Puyuhuapi;Compu
+917;CLI00917;29;Puerto Lloles;Curacautín
+918;CLI00918;48;Tinguiririca;Guanaqueros
+919;CLI00919;22;Nercón;Taltal
+920;CLI00920;20;San José de Maipo;Rinconada
+921;CLI00921;44;Puerto Cárdenas;Pelluhue
+922;CLI00922;22;Melipilla;El Melocotón
+923;CLI00923;40;Puerto Natales;Puerto Bertrand
+924;CLI00924;38;Osorno;Termas del Flaco
+925;CLI00925;34;Torres Del Paine;Mehuín
+926;CLI00926;32;El Colorado;Isla de Maipo
+927;CLI00927;35;Juan Lopez;Puertecillo
+928;CLI00928;39;Puerto Bertrand;Metri
+929;CLI00929;30;Tomé;La Tirana
+930;CLI00930;38;Malalcahuello;San Fabián de Alico
+931;CLI00931;41;Llicaldad;Chanavayita
+932;CLI00932;31;Melipilla;Vicuña
+933;CLI00933;33;Futaleufú;El Guayacán
+934;CLI00934;39;Puerto Cisnes;Pica
+935;CLI00935;27;Pucón;Quenuir
+936;CLI00936;35;Tinguiririca;Cahuil
+937;CLI00937;18;Recinto;Guanaqueros
+938;CLI00938;20;Llifén;Mamiña
+939;CLI00939;25;Ilihue;Malalcahuello
+940;CLI00940;30;La Junta;Nercón
+941;CLI00941;30;La Serena;Vicuña
+942;CLI00942;39;Iquique;Limache
+943;CLI00943;44;Constitución;Lontué
+944;CLI00944;28;La Junta;San Pedro De Atacama
+945;CLI00945;46;Chauquén;Dichato
+946;CLI00946;39;Manzanar;El Manzano
+947;CLI00947;33;Osorno;Freire
+948;CLI00948;41;Coronel;Pozo Almonte
+949;CLI00949;30;Pisco Elqui;Totoralillo
+950;CLI00950;45;Caburga;Mamiña
+951;CLI00951;30;San Félix;El Médano
+952;CLI00952;22;Puerto Fonck;La Herradura
+953;CLI00953;49;Quillón;Panguipulli
+954;CLI00954;21;Puerto Natales;El Boyenar
+955;CLI00955;44;Talca;Termas del Flaco
+956;CLI00956;49;Curacautín;San Alfonso
+957;CLI00957;50;La Herradura;Hornopirén
+958;CLI00958;47;Coyhaique;Pichidangui
+959;CLI00959;22;Olmué;Talca
+960;CLI00960;44;Vilches;Recinto
+961;CLI00961;31;Iloca;Angol
+962;CLI00962;27;Constitución;Cahuil
+963;CLI00963;50;Punta De Tralca;Río Puelo
+964;CLI00964;18;Alcohuaz;Baños Morales
+965;CLI00965;34;Pedregal;Frutillar Alto
+966;CLI00966;21;Panguipulli;Alcohuaz
+967;CLI00967;25;Isla de Maipo;Los Vilos
+968;CLI00968;40;Totoralillo;Juan Lopez
+969;CLI00969;41;Isla Negra;Puerto Ingeniero Ibáñez
+970;CLI00970;39;Limache;Puerto Montt
+971;CLI00971;29;Río Puelo;Laguna Verde
+972;CLI00972;20;El Tabo;Futrono
+973;CLI00973;31;Puertecillo;Dichato
+974;CLI00974;21;Puerto Guadal;Tirúa
+975;CLI00975;29;Puerto Lloles;Futaleufú
+976;CLI00976;18;Las Vertientes;Pucón
+977;CLI00977;45;Puerto Montt;Pisco Elqui
+978;CLI00978;41;Las Trancas (Termas de Chillán);Malalcahuello
+979;CLI00979;20;Piruquina;Santa Cruz
+980;CLI00980;45;Villarrica;Manzanar
+981;CLI00981;38;Iquique;Quenuir
+982;CLI00982;50;Rivadavia;Saltos del Laja
+983;CLI00983;31;Lebu;San Pedro De Atacama
+984;CLI00984;41;Ensenada;Llifén
+985;CLI00985;28;Laguna Verde;La Laguna
+986;CLI00986;33;Puerto Cárdenas;Santa Cruz
+987;CLI00987;26;Cobquecura;Villarrica
+988;CLI00988;40;Lebu;Compu
+989;CLI00989;28;Niebla;Alcohuaz
+990;CLI00990;38;Molco;El Guayacán
+991;CLI00991;48;Coquimbo;Victoria
+992;CLI00992;39;Isla Negra;Isla Negra
+993;CLI00993;41;Puerto Fonck;El Médano
+994;CLI00994;26;Osorno;Laguna Verde
+995;CLI00995;33;El Guayacán;Bahia Inglesa
+996;CLI00996;35;Bahia Inglesa;El Tabo
+997;CLI00997;26;El Manzano;Puerto Aysén
+998;CLI00998;45;Molco;Coñaripe
+999;CLI00999;28;Ancud;La Laguna
+1000;CLI01000;25;Coihaique;Valdivia
