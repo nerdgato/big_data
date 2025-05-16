@@ -1,0 +1,24 @@
+﻿UBICACION_ID;NOMBRE_SUCURSAL;CIUDAD_COMUNA;PROVINCIA;REGION
+1;Sucursal Arica;Arica;Arica;Arica y Parinacota
+2;Sucursal Iquique;Iquique;Iquique;Tarapacá
+3;Sucursal Antofagasta;Antofagasta;Antofagasta;Antofagasta
+4;Sucursal La Serena;La Serena;Elqui;Coquimbo
+5;Sucursal Valparaíso;Valparaíso;Valparaíso;Valparaíso
+6;Sucursal Concón;Concón;Valparaíso;Valparaíso
+7;Sucursal Quintero;Quintero;Valparaíso;Valparaíso
+8;Sucursal Viña del Mar;Viña del Mar;Valparaíso;Valparaíso
+9;Sucursal Los Andes;Los Andes;Los Andes;Valparaíso
+10;Sucursal Quilpué;Quilpué;Marga Marga;Valparaíso
+11;Sucursal Villa Alemana;Villa Alemana;Marga Marga;Valparaíso
+12;Sucursal Rancagua;Rancagua;Cachapoal;Región del Libertador Gral. Bernardo O’Higgins
+13;Sucursal Curicó;Curicó;Curicó;Región del Maule
+14;Sucursal Concepción;Concepción;Concepción;Región del Biobío
+15;Sucursal Talcahuano;Talcahuano;Concepción;Región del Biobío
+16;Sucursal Chillán;Chillán;Ñuble;Región del Biobío
+17;Sucursal Puerto Varas;Puerto Varas;Llanquihue;Los Lagos
+18;Sucursal Santiago;Santiago;Santiago;Región Metropolitana de Santiago
+19;Sucursal La Reina;La Reina;Santiago;Región Metropolitana de Santiago
+20;Sucursal Las Condes;Las Condes;Santiago;Región Metropolitana de Santiago
+21;Sucursal Ñuñoa;Ñuñoa;Santiago;Región Metropolitana de Santiago
+22;Sucursal Providencia;Providencia;Santiago;Región Metropolitana de Santiago
+23;Sucursal Valdivia;Valdivia;Valdivia;Los Ríos
